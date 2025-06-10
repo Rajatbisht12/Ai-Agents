@@ -5,4 +5,5 @@ export default function Home() {
     <Button variant="destructive">
       Click me
     </Button>
-  )}
+  )
+}
